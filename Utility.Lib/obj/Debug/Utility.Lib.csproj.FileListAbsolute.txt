@@ -1,0 +1,5 @@
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Utility.Lib\bin\Debug\Utility.Lib.dll
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Utility.Lib\bin\Debug\Utility.Lib.pdb
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Utility.Lib\obj\Debug\Utility.Lib.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Utility.Lib\obj\Debug\Utility.Lib.dll
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Utility.Lib\obj\Debug\Utility.Lib.pdb

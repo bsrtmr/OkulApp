@@ -1,0 +1,10 @@
+Hata mesajı :Violation of UNIQUE KEY constraint 'UK_tblSiniflar_SinifAd'. Cannot insert duplicate key in object 'dbo.tblSiniflar'. The duplicate key value is (5-A).
+The statement has been terminated.
+Tarih :14.01.2018 10:45:08
+Hata Numarası :2627Hata mesajı :Violation of UNIQUE KEY constraint 'UK_tblSiniflar_SinifAd'. Cannot insert duplicate key in object 'dbo.tblSiniflar'. The duplicate key value is (5-A).
+The statement has been terminated.
+Tarih :21.01.2018 10:39:57
+Hata Numarası :2627Hata mesajı :The INSERT statement conflicted with the CHECK constraint "CK_tblSiniflar_Kontenjan". The conflict occurred in database "OkulDb", table "dbo.tblSiniflar", column 'Kontenjan'.
+The statement has been terminated.
+Tarih :11.02.2018 10:53:22
+Hata Numarası :547

@@ -1,0 +1,135 @@
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe.config
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.pdb
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSiniflar.resources
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.Properties.Resources.resources
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csproj.GenerateResource.Cache
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.exe
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.pdb
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DosyaIslemleri.Lib.dll
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\vektorel\Desktop\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSinifBul.resources
+C:\Users\Luthien\C# KURS\16.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe.config
+C:\Users\Luthien\C# KURS\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.exe
+C:\Users\Luthien\C# KURS\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.pdb
+C:\Users\Luthien\C# KURS\16.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe
+C:\Users\Luthien\C# KURS\16.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.pdb
+C:\Users\Luthien\C# KURS\16.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\Luthien\C# KURS\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csprojResolveAssemblyReference.cache
+C:\Users\Luthien\C# KURS\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSinifBul.resources
+C:\Users\Luthien\C# KURS\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSiniflar.resources
+C:\Users\Luthien\C# KURS\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.Properties.Resources.resources
+C:\Users\Luthien\C# KURS\16.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csproj.GenerateResource.Cache
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe.config
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.exe
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.pdb
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.pdb
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DosyaIslemleri.Lib.dll
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.Modals.dll
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\UtilityLib.dll
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.Modals.pdb
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\UtilityLib.pdb
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSinifBul.resources
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSiniflar.resources
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.Properties.Resources.resources
+C:\Users\vektorel\Desktop\17.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csproj.GenerateResource.Cache
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe.config
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.exe
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.pdb
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.pdb
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.BLL.dll
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.Modals.dll
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\UtilityLib.dll
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DAL.dll
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.BLL.pdb
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.Modals.pdb
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\UtilityLib.pdb
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DAL.pdb
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSinifBul.resources
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSiniflar.resources
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.Properties.Resources.resources
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csproj.GenerateResource.Cache
+C:\Users\vektorel\Desktop\18.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmOgrenciler.resources
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe.config
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.exe
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.pdb
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.pdb
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.BLL.dll
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.Modals.dll
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\UtilityLib.dll
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DAL.dll
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.BLL.pdb
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.Modals.pdb
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\UtilityLib.pdb
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DAL.pdb
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmOgrenciler.resources
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSinifBul.resources
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSiniflar.resources
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.Properties.Resources.resources
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csproj.GenerateResource.Cache
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmMain.resources
+C:\Users\vektorel\Desktop\19.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.FrmOgrenciListesi.resources
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe.config
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.exe
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.pdb
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.pdb
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DosyaIslemleri.Lib.dll
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.BLL.dll
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.Modals.dll
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\UtilityLib.dll
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DAL.dll
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.BLL.pdb
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.Modals.pdb
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\UtilityLib.pdb
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DAL.pdb
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmMain.resources
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmOgrenciler.resources
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.FrmOgrenciListesi.resources
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSinifBul.resources
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSiniflar.resources
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.Properties.Resources.resources
+C:\Users\vektorel\Desktop\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csproj.GenerateResource.Cache
+G:\C# KURS\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe.config
+G:\C# KURS\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.exe
+G:\C# KURS\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.pdb
+C:\Users\Luthien\C#\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe.config
+C:\Users\Luthien\C#\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.exe
+C:\Users\Luthien\C#\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.pdb
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe.config
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.exe
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.pdb
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.pdb
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.BLL.dll
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.Modals.dll
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\UtilityLib.dll
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DAL.dll
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.BLL.pdb
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\OkulApp.Modals.pdb
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\UtilityLib.pdb
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\DAL.pdb
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csprojResolveAssemblyReference.cache
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmMain.resources
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmOgrenciler.resources
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.FrmOgrenciListesi.resources
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSinifBul.resources
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.frmSiniflar.resources
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.Properties.Resources.resources
+C:\Users\185mf\Desktop\20.Hafta\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.csproj.GenerateResource.Cache
+C:\Users\185mf\Desktop\20.Hafta - Kopya\20.Hafta\Windows.OkulApp\Windows.OkulApp\bin\Debug\Windows.OkulApp.exe.config
+C:\Users\185mf\Desktop\20.Hafta - Kopya\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.exe
+C:\Users\185mf\Desktop\20.Hafta - Kopya\20.Hafta\Windows.OkulApp\Windows.OkulApp\obj\Debug\Windows.OkulApp.pdb
